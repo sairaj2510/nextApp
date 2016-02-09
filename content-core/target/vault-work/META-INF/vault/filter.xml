@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/Nextrow/nextApp" />
+    <filter root="/etc/clientlibs/Nextrow/ionic-1.1.0" />
+    <filter root="/etc/clientlibs/Nextrow/phonegap-ready" />
+    <filter root="/etc/clientlibs/Nextrow/utility" />
+    <filter root="/etc/designs/phonegap/Nextrow/nextApp" />
+    <filter root="/content/dam/Nextrow/nextApp" />
+</workspaceFilter>
