@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/nextApp.iml" filepath="$PROJECT_DIR$/nextApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content-author/nextApp-content-author.iml" filepath="$PROJECT_DIR$/content-author/nextApp-content-author.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content-core/nextApp-content-core.iml" filepath="$PROJECT_DIR$/content-core/nextApp-content-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/content-dev/nextApp-content-dev.iml" filepath="$PROJECT_DIR$/content-dev/nextApp-content-dev.iml" />
+    </modules>
+  </component>
+</project>
